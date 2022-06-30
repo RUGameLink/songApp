@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">songApp</string>
+    <string name="set_text">Введите название песни</string>
+    <string name="set_art">Введите имя автора песни</string>
+    <string name="search">Найти</string>
+    <string name="home">Домой</string>
+    <string name="history">История</string>
+    <string name="delete_text">Очистить историю</string>
+</resources>
